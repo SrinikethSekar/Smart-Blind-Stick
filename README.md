@@ -4,7 +4,7 @@ Hi, I'm Sriniketh S!
 I am a 20-year-old student currently pursuing a Bachelor's in Electronics and Communication Engineering (ECE). My passion lies in the fascinating world of electronics and embedded systems. I have actively engaged in various practical experiences and projects to enhance my skills and knowledge.
 
 🔧 Skills:
-Programming Languages: C, Python
+Programming Languages: C/C++, Python
 Embedded Systems: Microcontrollers, Sensors, Actuators
 Hardware Design: Schematic Design, PCB Layout
 Software Development: Embedded C, Firmware Development
