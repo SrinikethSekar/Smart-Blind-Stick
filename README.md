@@ -1,34 +1,13 @@
 Hi, I'm Sriniketh S!
 
-🌟 About Me:
-I am a 20-year-old student currently pursuing a Bachelor's in Electronics and Communication Engineering (ECE). My passion lies in the fascinating world of electronics and embedded systems. I have actively engaged in various practical experiences and projects to enhance my skills and knowledge.
+👋 Hi there! I’m Sriniketh Sekar – a curious engineer, lifelong learner, and someone who loves bringing ideas to life through code and circuits.
 
-🔧 Skills:
-Programming Languages: C/C++, Python
-Embedded Systems: Microcontrollers, Sensors, Actuators
-Hardware Design: Schematic Design, PCB Layout
-Software Development: Embedded C, Firmware Development
-Tools & Platforms: Arduino, Raspberry Pi, Keil, MATLAB
+🔧 Building for Impact: I believe in creating solutions that not only work well but also make a difference. My projects span everything from embedded systems and VLSI design to renewable energy and IoT. Each one has taught me something new about creativity, resilience, and the importance of thoughtful engineering.
 
-🛠️ Projects & Experience:
-Temperature-Based Battery Monitoring System for Buoys
-Developed at the National Institute of Ocean Technology (NIOT).
-Focused on designing and implementing a system to monitor battery temperature, ensuring optimal performance in oceanic environments.
-Smart Blind Stick
+🌱 Forever Learning: I’m on a journey of continuous growth. Whether it’s exploring the latest in digital systems or refining my problem-solving skills, I’m always up for a new challenge. If there’s one thing I know for sure, it’s that the learning never stops.
 
-Project under MSME India.
-Designed to assist visually impaired individuals by integrating various sensors and feedback mechanisms.
-Reducing Electricity Theft Using IoT
+💡 Passion Projects: Here, you’ll find my favorite work – from hands-on electronics projects to creative code experiments. Each project represents a small step towards my dream of building meaningful technology for a sustainable and innovative future.
 
-Current project for the Innowah! competition.
-Aimed at developing innovative solutions to detect and prevent electricity theft.
+🤝 Let’s Connect: I’m always excited to meet fellow enthusiasts and collaborators. If you’re into embedded systems, IoT, or just want to chat about all things engineering, feel free to reach out!
 
-💡 Interests
-Embedded Systems
-IoT (Internet of Things)
-Electronics Design and Development
-Problem Solving and Debugging
-Continuous Learning and Innovation
-
-🚀 Let's Connect
-I am always open to discussing new projects, collaborations, or opportunities to learn and grow. Feel free to reach out!
+Thanks for stopping by! 😊
