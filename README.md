@@ -1,13 +1,58 @@
-Hi, I'm Sriniketh S!
+🌟 Smart Blind Stick
 
-👋 Hi there! I’m Sriniketh Sekar – a curious engineer, lifelong learner, and someone who loves bringing ideas to life through code and circuits.
+🚀 Project Overview
 
-🔧 Building for Impact: I believe in creating solutions that not only work well but also make a difference. My projects span everything from embedded systems and VLSI design to renewable energy and IoT. Each one has taught me something new about creativity, resilience, and the importance of thoughtful engineering.
+The Smart Blind Stick is an innovative assistive device designed to enhance the mobility and independence of visually impaired individuals. It integrates various sensors and technologies to detect obstacles, provide haptic feedback, and help locate the stick if misplaced. The project utilizes an Arduino UNO as the main controller and integrates modules like ultrasonic sensors, vibration motors, and radio frequency transmitters for efficient functionality.
 
-🌱 Forever Learning: I’m on a journey of continuous growth. Whether it’s exploring the latest in digital systems or refining my problem-solving skills, I’m always up for a new challenge. If there’s one thing I know for sure, it’s that the learning never stops.
+🛠️ Features
 
-💡 Passion Projects: Here, you’ll find my favorite work – from hands-on electronics projects to creative code experiments. Each project represents a small step towards my dream of building meaningful technology for a sustainable and innovative future.
+1.Obstacle Detection: Ultrasonic sensors detect obstacles within 4 meters.
 
-🤝 Let’s Connect: I’m always excited to meet fellow enthusiasts and collaborators. If you’re into embedded systems, IoT, or just want to chat about all things engineering, feel free to reach out!
+2.Haptic Feedback: Vibration motor alerts users to nearby objects.
 
-Thanks for stopping by! 😊
+3.Lost Stick Detection: Radiofrequency transmitter and buzzer help locate the stick.
+
+4.User-Friendly Design: Lightweight, foldable, and easy to handle.
+
+🔧 Components Used
+
+1.Arduino UNO
+
+2.Ultrasonic Sensor
+
+3.Infrared Sensor
+
+4.Vibration Motor
+
+5.RF Transmitter and Receiver
+
+6.Buzzer
+
+7.Battery
+
+📋 How to Use
+
+1.Assemble the components as per the provided circuit diagram.
+
+2.Upload the code to the Arduino UNO using the Arduino IDE.
+
+3.Power the device and test the obstacle detection and buzzer functionalities.
+
+📂 Repository Structure
+
+1.Code: Arduino source code.
+
+2.Circuit Diagrams: Detailed circuit connections.
+
+3.Media: Images and videos of the working prototype.
+
+4.Documentation: Project report, datasheets, and troubleshooting guide.
+
+🌐 Contributions
+
+Contributions are welcome! Please refer to the CONTRIBUTING.md file for details.
+
+📝 License
+
+This project is licensed under the MIT License.
+
