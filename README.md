@@ -24,11 +24,9 @@ The Smart Blind Stick is an innovative assistive device designed to enhance the 
 
 4.Vibration Motor
 
-5.RF Transmitter and Receiver
+5.Buzzer
 
-6.Buzzer
-
-7.Battery
+6.Battery
 
 #📋 How to Use
 
